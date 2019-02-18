@@ -1,4 +1,4 @@
-# robot_ddpg
+# What is this ?
 this ddpagent is based on keras_rl. When it comes to "envs" OpenAI is the way to go. Keras_rl works with the gyms out of the box. Here we have a custom env that communicates via websockets with a unity based so called RobotSimulation :) 
 
 ## Getting Started
