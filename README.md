@@ -9,6 +9,13 @@ just start the robot_ddpgagent.py and let it happen....
 
 In order to work you need a websocket server that spreads all incoming messages.
 
+### Dependencies
+
+If you want to see the agent performing in the usecase i build it for you need the following software..
+
+1: TBA
+2: TBA
+
 ### Installing
 
 You do need a small number of libraries.
@@ -19,4 +26,4 @@ You do need a small number of libraries.
  
 ## Acknowledgments
 
-This solution works perfectly in combination with some stuff i've built and is a nice demonstrator for a distributed machine learning pipleline.
+This solution works perfectly in combination with some stuff i've built and its a nice demonstrator for a distributed machine learning pipleline with async websocket communication. 
