@@ -19,7 +19,7 @@ import json
 
 
 def get_chance(x):
-    """Get probability that a banana will be sold at price x."""
+    """Get rand probability."""
     e = math.exp(1)
     return (1.0 + e) / (1. + math.exp(x + 1))
 
