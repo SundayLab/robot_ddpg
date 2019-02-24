@@ -1,5 +1,5 @@
 # What is this ?
-this ddpagent is based on keras_rl. When it comes to "envs" OpenAI is the way to go. Keras_rl works with the gyms out of the box. Here we have a custom env that communicates via websockets with a unity based so called RobotSimulation :) 
+this ddpg agent is based on keras_rl. When it comes to "envs" OpenAI is the way to go. Keras-rl works with openai gyms out of the box. Here we have a custom gym-env that communicates via websockets with a unity based robotsimulation.
 
 ## Getting Started
 
@@ -7,14 +7,13 @@ just start the robot_ddpgagent.py and let it happen....
 
 ### Prerequisites
 
-In order to work you need a websocket server that spreads all incoming messages.
+- TBA
 
 ### Dependencies
 
 If you want to see the agent performing in the usecase i build it for you need the following software..
 
-1: TBA
-2: TBA
+- TBA 
 
 ### Installing
 
